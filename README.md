@@ -14,10 +14,19 @@ This repository contains a curated dataset used in our workshop paper [**"Perfor
   - Removed near-duplicate channels to ensure diversity.
 - **Processing**: All filtering and aggregation were completed **before** any model evaluations. Users are encouraged to explore different channels from the [original dataset](https://github.com/sir-lab).
 
-## Data Format
+## Data Format  
 
-The processed dataset is available in the `/data` directory and consists of 4 CSV files:
+The processed dataset is available in the `/data` directory as zipped archives. Each datacentre's data is stored in a separate `.zip` file, which needs to be extracted before use:  
 
+```
+/data
+  ├── datacentre_1.zip
+  ├── datacentre_2.zip
+  ├── datacentre_3.zip
+  ├── datacentre_4.zip
+```
+
+After unzipping, one should aim for a structure like this:  
 ```
 /data
   ├── datacentre_1.csv
