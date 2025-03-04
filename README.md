@@ -1,3 +1,5 @@
+Authors [William Toner](https://github.com/WToner/) and [Thomas Lee](https://github.com/Tlee43)
+
 # Performance of Zero-Shot Time Series Foundation Models on Cloud Data
 
 This repository contains a curated dataset used in our workshop paper [**"Performance of Zero-Shot Time Series Foundation Models on Cloud Data."**](https://arxiv.org/pdf/2502.12944?) The dataset is derived from [sir-lab's repository](https://github.com/sir-lab), with preprocessing applied to focus on the most informative channels.
