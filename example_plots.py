@@ -38,5 +38,5 @@ for ax in axes:
 
 
 plt.tight_layout()
-plt.savefig("./example_datacentre1.png", dpi=300, bbox_inches="tight")
+plt.savefig("./images/example_datacentre1.png", dpi=300, bbox_inches="tight")
 plt.close()
