@@ -46,8 +46,7 @@ df[column1].plot()
 plt.show()
 ```
 
-![Alt text](https://gitlab-uk.rnd.huawei.com/sir_lab/highlanderai/arrival-prediction-projects/time-series-fm-cloud-dataset/-/raw/main/images/example_datacentre1.png?ref_type=heads)
-
+![](https://gitlab-uk.rnd.huawei.com/sir_lab/highlanderai/arrival-prediction-projects/time-series-fm-cloud-dataset/-/raw/main/images/example_datacentre1.png?ref_type=heads)
 
 
 ## Citation
