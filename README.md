@@ -59,13 +59,11 @@ plt.show()
 
 ![alt text](./images/example_datacentre1.png)
 
-<!--
 %## Citation
 
 If you use this dataset in your work, please cite our workshop paper:
 
 > "[Performance of Zero-Shot Time Series Foundation Models on Cloud Data](https://arxiv.org/pdf/2502.12944?)," William Toner, Tom Lee, _'I Can't Believe it's Not Better'_ ICLR 2025.
--->
 ---
 
 For any questions or feedback, feel free to open an issue or reach out!
