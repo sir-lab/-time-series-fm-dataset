@@ -59,7 +59,7 @@ plt.show()
 
 ![alt text](./images/example_datacentre1.png)
 
-%## Citation
+## Citation
 
 If you use this dataset in your work, please cite our workshop paper:
 
